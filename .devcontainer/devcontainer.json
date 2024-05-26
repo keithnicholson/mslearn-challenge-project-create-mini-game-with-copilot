@@ -14,10 +14,12 @@
 		"vscode": {
 			"settings": {},
 			"extensions": [
+				"GitHub.copilot",
 				"streetsidesoftware.code-spell-checker",
 				"ms-python.python",
+				"ms-python.python-debugger",
 				"ms-python.vscode-pylance"
-			]
+				]
 		}
 	},
 	
